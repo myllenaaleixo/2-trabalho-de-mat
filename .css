@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+
+nav a {
+font-size: 5px;
+color:black
+}
+
+.img1{
+    width: 70%;
+}
+
+.centro{
+    text-align: justify;
+}
+
+.img1{
+    height: 200px;
+}
